@@ -502,6 +502,6 @@ span {
 }
 @media (max-width: 768px) {
     .img-box {
-        margin-top: 20px; /* Push the image down */
+        margin-top: 20px; 
     }
 }
